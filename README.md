@@ -7,6 +7,9 @@
 - gensim
 - nltk
 - numpy
+# 参考资料
+- https://radimrehurek.com/gensim/models/word2vec.html
+- http://www.nltk.org/
 # 引用方式
 待定
 # 联系方式
