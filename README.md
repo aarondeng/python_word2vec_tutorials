@@ -1,8 +1,8 @@
 # 词向量训练与使用教程
  基于gensim包进行python词向量训练与探索及可视化
 # 项目背景
-> 本项目是北京外国语大学语料库语言学团队在2019年6月进行的三次python词向量学习交流活动中使用的ipython notebook源代码材料。
-所有源代码材料也可在北外语料库语言学网站[下载](http://corpus.bfsu.edu.cn/tools)
+> - 本项目是北京外国语大学语料库语言学团队在2019年6月进行的三次python词向量学习交流活动中使用的ipython notebook源代码材料。
+- 所有源代码材料也可在北外语料库语言学网站[下载](http://corpus.bfsu.edu.cn/tools)
 # 数据下载
 - TECCL V1.0
 ***
