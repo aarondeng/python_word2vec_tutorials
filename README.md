@@ -22,6 +22,6 @@
 - [gensim word2vec](https://radimrehurek.com/gensim/models/word2vec.html)
 - [nltk](http://www.nltk.org/)
 # 引用方式
-待定
+邓海龙.Python词向量训练与应用技术解析.《语料库语言学》，2019（2）:90-111.
 # 联系方式
 邮件地址：dhljxgz@163.com
